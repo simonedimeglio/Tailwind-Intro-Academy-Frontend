@@ -37,3 +37,15 @@ padding-y -> py-[]
 Bordi -> border -> border-[dimensione]
 Colore bordo -> border-colore -> border-red-500
 Border radius -> rounded-[]
+
+# DISPLAY
+
+Flex -> flex
+Flex direction: column -> flex-col
+Flex direction: row -> flex-row
+justify -> justify
+align -> items
+
+Grid -> grid
+
+colonne -> grid-cols-numerocolonne (es. grid-cols-4)
